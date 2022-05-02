@@ -21,7 +21,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 -->
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gzzyyxh)
+[![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
