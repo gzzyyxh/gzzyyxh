@@ -29,13 +29,14 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=flat&logo=MicroPython)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=Shell)
-
-<br />
-![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
-<br />
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
+
+[![wakatime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+| <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### Top Repositories
 
