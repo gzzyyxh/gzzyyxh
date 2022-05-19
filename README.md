@@ -27,7 +27,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog)
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=hdl)
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
