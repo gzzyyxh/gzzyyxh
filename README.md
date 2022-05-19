@@ -23,11 +23,14 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 -->
 [![wakatime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
 <br />
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=#A8B9CC)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=hdl)
+<br />
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=Raspberry Pi)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
