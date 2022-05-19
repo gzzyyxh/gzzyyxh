@@ -28,7 +28,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 <br />
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry-Pi-000000?style=flat&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
