@@ -26,16 +26,25 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=flat&logo=MicroPython)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=Shell)
+
 <br />
+![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim)
+![Cmake](https://img.shields.io/badge/-Cmake-000000?style=flat&logo=Cmake)
 ![Sklearn](https://img.shields.io/badge/-scikitlearn-000000?style=flat&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=Arduino)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=Qt)
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail)
+![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter)
 <!--
 
 #### Top Repositories
