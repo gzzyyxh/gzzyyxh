@@ -44,7 +44,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 |----------------|-----------------|
 
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail)
-![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter)
+![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=flat&logo=Twitter)
 <!--
 
 #### Top Repositories
