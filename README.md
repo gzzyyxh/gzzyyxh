@@ -40,8 +40,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=Arduino)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=Qt)
-|----------------|-----------------|
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
+|----------------|-----------------|
+<br />
 ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail)
 ![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter)
 <!--
