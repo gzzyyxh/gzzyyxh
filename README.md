@@ -28,7 +28,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 <br />
-![Sklearn](https://img.shields.io/badge/-scikit-learn-000000?style=flat&logo=scikitlearn)
+![Sklearn](https://img.shields.io/badge/-scikitlearn-000000?style=flat&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
