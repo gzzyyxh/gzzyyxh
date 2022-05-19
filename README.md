@@ -24,7 +24,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 [![wakatime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
 <br />
 ![C](https://img.shields.io/badge/-C-FFFFFF?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-EEEEEE?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-FFFFFF?style=flat&logo=MicroPython)
 ![Rust](https://img.shields.io/badge/-Rust-FFFFFF?style=flat&logo=rust)
