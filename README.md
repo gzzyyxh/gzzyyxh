@@ -43,7 +43,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----------------|-----------------|
 
-![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=Gmail)
+[![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=Gmail)](www.baidu.com)
 ![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=flat&logo=Twitter)
 <!--
 
