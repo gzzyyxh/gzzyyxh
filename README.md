@@ -40,6 +40,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![Arduino](https://img.shields.io/badge/-Arduino-AAAAAA?style=flat&logo=Arduino)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-AAAAAA?style=flat&logo=OpenCV)
 ![Qt](https://img.shields.io/badge/-Qt-AAAAAA?style=flat&logo=Qt)
+![Altium-Designer](https://img.shields.io/badge/-Altium-Designer-AAAAAA?style=flat&logo=Altium-Designer)
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----------------|-----------------|
 
