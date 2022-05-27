@@ -25,9 +25,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 ## Hi~Xiuhua Yang Here
 
-**Undergraduate, Electronic Engineering@Fudan University**
+**Undergraduate, Electronic Engineering @ Fudan University**
 
-**Software Developer Intern@**![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei&color=red)
+**Software Developer Intern @ **![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei&color=red)
 
 </div>
 
@@ -57,7 +57,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![Qt](https://img.shields.io/badge/-Qt-999999?style=flat&logo=Qt)
 ![Altium-Designer](https://img.shields.io/badge/-AltiumDesigner-999999?style=flat&logo=Altium-Designer)
 
-### Touch Me
+### Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-@gzzyyxh-FFFFFF?style=plastic&logo=Gmail)](mailto:gzzyyxh@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@gzzyyxh-FFFFFF?style=plastic&logo=Twitter)](http://twitter.com)
 <!--
