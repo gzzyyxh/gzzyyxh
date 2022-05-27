@@ -25,15 +25,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 ## Hi~Here's Xiuhua Yang
 
-<br>
-
 **Undergraduate, Electronic Engineering@Fudan University**
-
-<br>
 
 **Software Developer Intern@**
 
-![Huawei](https://img.shields.io/badge/-Huawei-Red?style=flat&logo=Huawei)
+![Huawei](https://img.shields.io/badge/-Huawei-?style=flat&logo=Huawei&color=red)
 
 </div>
 
