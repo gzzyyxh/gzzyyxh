@@ -22,12 +22,19 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 -->
 <div align="center">
+
 ## Hi~Here's Xiuhua Yang
+
 <br>
+
 **Undergraduate, Electronic Engineering@Fudan University**
+
 <br>
+
 **Software Developer Intern@**
+
 ![Huawei](https://img.shields.io/badge/-Huawei-Red?style=flat&logo=Huawei)
+
 </div>
 
 [![codetime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
