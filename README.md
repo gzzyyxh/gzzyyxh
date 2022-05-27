@@ -27,7 +27,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **Undergraduate, Electronic Engineering @ Fudan University**
 
-**Software Developer Intern @** [![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei&color=red)](www.huawei.com)
+**Software Developer Intern @** [![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei&color=red)](http://huawei.com)
 
 </div>
 
