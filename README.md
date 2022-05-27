@@ -21,11 +21,14 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 -->
-<center>Hi~Here's Xiuhua Yang</center>
+<div align="center">
+Hi~Here's Xiuhua Yang
 <br>
-<center>Undergraduate, Electronic Engineering@Fudan University</center>
+Undergraduate, Electronic Engineering@Fudan University
 <br>
-<center>Software Developer Intern@![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei)</center>
+Software Developer Intern@
+![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei)
+</div>
 
 [![codetime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
 
