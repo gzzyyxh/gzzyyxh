@@ -1,0 +1,1 @@
+My name is yangxiuhua. I am expected to graduate from the Department of electronic engineering of Fudan University in June 2023. I have a wide range of hobbies, such as embedded, Internet of things, in-depth learning, and various interesting things.
