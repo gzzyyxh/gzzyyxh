@@ -1,6 +1,6 @@
 title: "About Me"
 author: "Xiuhua Yang"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made with <b style=\"color: #f45;\">&lt;gzzyyxh</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,10 +8,10 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
 
