@@ -1,6 +1,6 @@
 title: "About Me"
 author: "Xiuhua Yang"
-description: "Update at <b style=\"color: #f45;\">' Jun. 1, 2022'</b>"
+description: "Update at <b style=\"color: #f45;\">&nbsp;Jun.&nbsp;1&nbsp;2022'</b>"
 #permalink: /:title/
 #lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gzzyyxh@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/gzzyyxh"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
