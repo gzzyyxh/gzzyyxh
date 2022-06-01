@@ -1,8 +1,8 @@
 title: "About Me"
 author: "Xiuhua Yang"
-description: "Written by <b style=\"color: #f45;\">;gzzyyxh</b>"
+description: "Update at <b style=\"color: #f45;\">Jun. 1, 2022</b>"
 #permalink: /:title/
-lang: "en"
+#lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
