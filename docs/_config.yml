@@ -1,7 +1,7 @@
 title: "About Me"
 author: "Xiuhua Yang"
-description: "Made with <b style=\"color: #f45;\">&lt;gzzyyxh</b>"
-permalink: /:title/
+description: "Written by <b style=\"color: #f45;\";gzzyyxh</b>"
+#permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
