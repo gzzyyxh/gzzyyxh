@@ -24,6 +24,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <div align="center">
 
 ## Hi~Xiuhua Yang Here
+  
+[About Me](https://gzzyyxh.cn/gzzyyxh/)
 
 **Undergraduate, Electronic Engineering @ Fudan University**
 
