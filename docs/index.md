@@ -4,4 +4,4 @@
 
 ### &emsp;Skills
 
-&emsp;&emsp;Emmm...I don't have time now. I will update this page to introduce myself more in a few days.
+&emsp;&emsp;Emmm...I'm in the middle of something. I will update this page to introduce myself more in a few days.
