@@ -35,7 +35,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 [![codetime](https://wakatime.com/badge/user/0de4f1d3-502b-4e31-a34b-8eee914bed75.svg)](https://wakatime.com/@0de4f1d3-502b-4e31-a34b-8eee914bed75)
 
-| <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img align="center" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gzzyyxh/github-readme-stats"><img height="180em" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img height="180em" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----------------|-----------------|
 
 ### Language
