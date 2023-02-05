@@ -37,7 +37,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 | <a href="https://github.com/gzzyyxh/github-readme-stats"><img height="170em" src="https://github-readme-stats-khaki-tau-80.vercel.app/api?username=gzzyyxh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gzzyyxh/github-readme-stats"><img height="170em" src="https://github-readme-stats-khaki-tau-80.vercel.app/api/top-langs/?username=gzzyyxh&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----------------|-----------------|
-
+<!---
 ### Language
 ![C](https://img.shields.io/badge/-C-999999?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B)
@@ -62,6 +62,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ### Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-@gzzyyxh-FFFFFF?style=plastic&logo=Gmail)](mailto:gzzyyxh@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@gzzyyxh-FFFFFF?style=plastic&logo=Twitter)](http://twitter.com)
+--->
 <!--
 
 #### Top Repositories
