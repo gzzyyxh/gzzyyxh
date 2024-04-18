@@ -23,11 +23,12 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 -->
 <div align="center">
 
-## Hi~Xiuhua Yang Here
+<!--## Hi~Xiuhua Yang Here
   
 [About Me](https://gzzyyxh.cn/gzzyyxh/)
 
 **B.Eng, Electronic Engineering @ Fudan University**
+-->
 <!--
 **Software Developer Intern @** [![Huawei](https://img.shields.io/badge/-Huawei-red?style=flat&logo=Huawei&color=red)](http://huawei.com)
 -->
